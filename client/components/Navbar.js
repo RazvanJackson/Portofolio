@@ -9,7 +9,7 @@ class Navbar extends React.Component{
                     <div className="container">
                         <a href="/" className="navbar-brand"><i className="fas fa-code"></i></a>
                         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-right" aria-controls="navbar-right" aria-expanded="false" aria-label="Toggle navigation">
-                            <i class="fas fa-bars icon"></i>
+                            <i className="fas fa-bars icon"></i>
                         </button>
                         
                         <div className="collapse navbar-collapse" id="navbar-right">
