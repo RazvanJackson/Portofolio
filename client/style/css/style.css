@@ -1,0 +1,130 @@
+@import url("https://fonts.googleapis.com/css?family=Lora|Source+Sans+Pro");
+/* GENERAL */
+.icon {
+  color: white;
+  font-size: 30px; }
+
+.title {
+  font-family: "Lora", serif;
+  text-align: center;
+  color: white; }
+
+/* BACKGROUND */
+#Background:after {
+  content: "";
+  z-index: -786;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: url("../../img/background.jpg");
+  background-size: cover;
+  position: fixed; }
+
+/* NAVBAR */
+#Navbar {
+  font-family: "Source Sans Pro", sans-serif; }
+  #Navbar .navbar-brand {
+    font-size: 30px;
+    color: white;
+    margin-left: 10px; }
+  #Navbar .nav-link {
+    border: 1px solid #920000;
+    font-size: 2vh;
+    color: white;
+    margin-left: 10px; }
+  #Navbar .nav-link:hover {
+    background-color: rgba(146, 0, 0, 0.75); }
+
+/* CONTENT */
+#LandingContent, #ContactContent {
+  margin: 10vh 0px; }
+
+#NotFound {
+  overflow: auto; }
+  #NotFound .content-text {
+    font-family: "Lora", serif;
+    margin-top: 20vh; }
+  #NotFound .button {
+    font-family: "Source Sans Pro", sans-serif; }
+
+#LandingContent .content, #NotFound .content {
+  text-align: center; }
+#LandingContent .content-text, #NotFound .content-text {
+  font-family: "Lora", serif;
+  color: white;
+  white-space: nowrap;
+  font-size: 5vh; }
+#LandingContent .button, #NotFound .button {
+  font-family: "Source Sans Pro", sans-serif;
+  color: white;
+  font-size: 2.5vh;
+  border: 1px solid #920000;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0); }
+#LandingContent .button:hover, #NotFound .button:hover {
+  background-color: rgba(146, 0, 0, 0.75); }
+
+#ContactContent .jumbotron {
+  background-color: #920000;
+  padding: 2%; }
+#ContactContent .content {
+  text-align: center; }
+#ContactContent .content-text {
+  font-family: "Lora", serif;
+  color: white;
+  white-space: nowrap;
+  font-size: 3vh; }
+
+#AboutContent {
+  margin-top: 10vh; }
+  #AboutContent .content .content-text {
+    color: white;
+    font-size: 2.5vh; }
+  #AboutContent .content .about {
+    font-family: "Source Sans Pro", sans-serif;
+    background-color: rgba(52, 55, 56, 0.75);
+    padding: 2%; }
+  #AboutContent .content .skills {
+    font-family: "Source Sans Pro", sans-serif;
+    background-color: rgba(52, 55, 56, 0.75);
+    padding: 2%; }
+    #AboutContent .content .skills .box {
+      color: white;
+      text-align: center;
+      height: 100px;
+      padding: 0px;
+      margin: 5vh 0px; }
+    #AboutContent .content .skills .image {
+      width: 12.5vh;
+      height: 12.5vh; }
+  #AboutContent .content .qualities {
+    font-family: "Source Sans Pro", sans-serif;
+    background-color: rgba(52, 55, 56, 0.75);
+    padding: 2%; }
+
+#PortofolioContent {
+  margin-top: 10vh; }
+  #PortofolioContent .project {
+    background-color: rgba(52, 55, 56, 0.75);
+    border: 1px solid #920000;
+    border-radius: 5%;
+    margin-bottom: 20px; }
+    #PortofolioContent .project .project-title {
+      font-size: 5vh;
+      width: 100%;
+      padding: 10px;
+      border-bottom: 1px solid #920000; }
+    #PortofolioContent .project .slider-image {
+      border-radius: 5%;
+      padding-bottom: 10px; }
+    #PortofolioContent .project .tehnologies {
+      border-top: 1px solid #920000; }
+      #PortofolioContent .project .tehnologies .tehnologies-title {
+        padding: 10px;
+        font-size: 2.5vh; }
+      #PortofolioContent .project .tehnologies .tehnologies-text {
+        color: white; }
+
+/*# sourceMappingURL=style.css.map */
