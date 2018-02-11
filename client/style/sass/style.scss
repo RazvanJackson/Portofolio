@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lora|Source+Sans+Pro');
 
-$background-image: '../../img/background.jpg';
+$background-image: 'https://preview.ibb.co/hDOHrS/background.jpg';
 $primary-color: #920000;
 $headline-font-family: 'Lora', serif;
 $text-font-family: 'Source Sans Pro', sans-serif;
@@ -195,6 +195,7 @@ $background-color-alpha: 0.75;
             }
 
             .tehnologies-text{
+                font-family: $text-font-family;
                 color: white;
             }
         }

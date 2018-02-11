@@ -32,31 +32,31 @@ class AboutContent extends React.Component{
                             <h1 className="title skills-title">Skills</h1>
                             <div className="row">
                                 <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 cold-xl-12 box">
-                                    <img src="./img/HTML-logo.png" className="image"/>
+                                    <img src="https://preview.ibb.co/mW6Fd7/HTML_logo.png" alt="HTML" className="image"/>
                                 </div>
                                 <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 cold-xl-12 box">
-                                    <img src="./img/CSS-logo.png" className="image"/>
+                                    <img src="https://preview.ibb.co/bY7crS/CSS_Logo.png" alt="CSS" className="image"/>
                                 </div>
                                 <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 cold-xl-12 box">
-                                    <img src="./img/Javascript-logo.png" className="image"/>
+                                    <img src="https://preview.ibb.co/iZPOWS/Java_Script_logo.png" alt="JavaScript" className="image"/>
                                 </div>
                                 <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 cold-xl-12 box">
-                                    <img src="./img/jQuery-logo.png" className="image"/>
+                                    <img src="https://preview.ibb.co/gdnABS/j_Query_logo.png" alt="jQuery" className="image"/>
                                 </div>
                                 <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 cold-xl-12 box">
-                                    <img src="./img/Vue-logo.png" className="image"/>
+                                    <img src="https://preview.ibb.co/d191J7/Vue_logo.png" alt="Vue" className="image"/>
                                 </div>
                                 <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 cold-xl-12 box">
-                                    <img src="./img/React-logo.png" className="image"/>
+                                    <img src="https://preview.ibb.co/dUwgJ7/React_logo.png" alt="React" className="image"/>
                                 </div>
                                 <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 cold-xl-12 box">
-                                    <img src="./img/NodeJs-logo.png" className="image"/>
+                                    <img src="https://preview.ibb.co/iyD6kn/Node_Js_Logo.png" alt="NodeJS" className="image"/>
                                 </div>
                                 <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 cold-xl-12 box">
-                                    <img src="./img/MongoDB-logo.png" className="image"/>
+                                    <img src="https://image.ibb.co/hwi6kn/Mongo_DB_logo.png" alt="MongoDB" className="image"/>
                                 </div>
                                 <div className="col-xl-4 col-lg-4 col-md-6 col-sm-6 cold-xl-12 box">
-                                    <img src="./img/Socket-logo.png" className="image"/>
+                                    <img src="https://image.ibb.co/jHvK5n/Socket_logo.png" alt="Socket" className="image"/>
                                 </div>
                             </div>
                         </div>

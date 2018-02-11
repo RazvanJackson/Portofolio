@@ -12,10 +12,10 @@ class PortofolioContent extends React.Component{
                             <div id="voting-slider" className="carousel slide" data-ride="carousel">
                                 <div className="carousel-inner">
                                     <div className="carousel-item active">
-                                        <img className="d-block w-100 slider-image" src="../img/Voting-1.png" alt="First slide"/>
+                                        <img className="d-block w-100 slider-image" src="https://preview.ibb.co/cUkad7/Voting_1.png" alt="First slide"/>
                                     </div>
                                     <div className="carousel-item">
-                                        <img className="d-block w-100 slider-image" src="../img/Voting-2.png" alt="Second slide"/>
+                                        <img className="d-block w-100 slider-image" src="https://preview.ibb.co/cUWsQn/Voting_2.png" alt="Second slide"/>
                                     </div>
                                 </div>
                                 <a className="carousel-control-prev" href="#voting-slider" role="button" data-slide="prev">
@@ -47,10 +47,10 @@ class PortofolioContent extends React.Component{
                                 <div id="gambling-slider" className="carousel slide" data-ride="carousel">
                                     <div className="carousel-inner">
                                         <div className="carousel-item active">
-                                            <img className="d-block w-100 slider-image" src="../img/Gambling-1.png" alt="First slide"/>
+                                            <img className="d-block w-100 slider-image" src="https://preview.ibb.co/itjOWS/Gambling_1.png" alt="First slide"/>
                                         </div>
                                         <div className="carousel-item">
-                                            <img className="d-block w-100 slider-image" src="../img/Gambling-2.png" alt="Second slide"/>
+                                            <img className="d-block w-100 slider-image" src="https://preview.ibb.co/cE0K5n/Gambling_2.png" alt="Second slide"/>
                                         </div>
                                     </div>
                                     <a className="carousel-control-prev" href="#gambling-slider" role="button" data-slide="prev">
